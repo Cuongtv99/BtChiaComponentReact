@@ -5,6 +5,7 @@ import ExampleLayout from "./ExampleLayout";
 function App() {
   return (
     <div className="App">
+    <h1>Demo CICD</h1>
       <ExampleLayout />
     </div>
   );
